@@ -15,7 +15,19 @@ body{
     color:#fff;
 }
 
+.jarak{
+    padding:0 2pc;
+}
 
+.menu{
+    background-color:cyan;
+    height:50px;
+    line-height:50px;
+    position:relative;
+    width:90%;
+    margin:0 auto;
+    padding:0 auto;
+}
 
 
 
